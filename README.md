@@ -1,0 +1,1 @@
+Welcome to my GitHub repository, where I showcase all the projects I worked on during my Master’s program. These projects highlight my skills in data science, artificial intelligence, cloud computing, data visualization, and software development
