@@ -1,1 +1,1 @@
-Welcome to my GitHub repository, where I showcase all the projects I worked on during my Master’s program. These projects highlight my skills in Data Science, Machine Learning Artificial Intelligence, Cloud Computing, Data Visualization and Project Management
+Welcome to my GitHub repository, where I showcase all the projects/reports I have worked on. These projects highlight my skills in Data Science, Machine Learning Artificial Intelligence, Cloud Computing and virutalisation, Data Visualization and Project Management
